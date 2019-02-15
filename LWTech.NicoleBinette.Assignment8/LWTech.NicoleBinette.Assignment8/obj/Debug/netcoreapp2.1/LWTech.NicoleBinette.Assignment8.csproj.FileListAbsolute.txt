@@ -1,0 +1,11 @@
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/obj/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.csprojAssemblyReference.cache
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/obj/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.csproj.CoreCompileInputs.cache
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/obj/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.AssemblyInfoInputs.cache
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/obj/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.AssemblyInfo.cs
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/bin/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.deps.json
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/bin/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.runtimeconfig.json
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/bin/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.runtimeconfig.dev.json
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/bin/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.dll
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/bin/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.pdb
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/obj/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.dll
+/Users/nicoleampornbinette/Projects/LWTech.NicoleBinette.Assignment8/LWTech.NicoleBinette.Assignment8/obj/Debug/netcoreapp2.1/LWTech.NicoleBinette.Assignment8.pdb
