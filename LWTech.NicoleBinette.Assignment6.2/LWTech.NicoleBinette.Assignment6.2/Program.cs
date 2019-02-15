@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Threading;
-
+/* Conway's Game of Life
+   Rules: The board is randomly filled.
+   If a organism doesn't have 3 neighboring organisms nearby it dies. */
 namespace LWTech.NicoleBinette.Assignment6
 {
     class Program
